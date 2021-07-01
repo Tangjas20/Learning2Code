@@ -1,20 +1,3 @@
-# Due date 11:59PM Sunday 11 April 2021 (local Sydney time)
-
-Be aware of daylight savings changes on 4 April 2021.
-
-# A message to all students about posting on Ed
-
-This is an assignment and staff are not permitted to give guidance on your code, or how to solve the specific problem. That is the purpose of the assessment that you are required to perform to achieve the grade.
-
-You may ask clarification questions about the assignment description. This is often necessary to implement functionality that is otherwise ambiguous.
-
-The assignment description is not intended to be complete and you can confirm your assumptions in a form of a question. In asking the question you should be quoting the description you are asking about.
-
-If you have a question to ask on Ed please search before asking. However, remember that **you should not be posting any assignment code
-publicly, as this would constitute academic dishonesty**.
-
-Also, do not wait too long before starting. This assignment needs time and sustained effort.
-
 # Problem description
 
 You are writing an interactive program for a local cinema. The program will allow users to view the available movies, order tickets for one or multiple persons, and make transactions on the orders.
@@ -942,15 +925,3 @@ The manual grading from your tutor will consider the style, layout and comments 
    - Please use comments or docstrings for sections of code to explain the section's purpose. e.g. the following block of code will "search for", "calculate", "get input for options" etc.
 
 
-# Academic declaration
-By submitting this assignment you declare the following:
-
-I declare that I have read and understood the University of Sydney Academic Dishonesty and Plagiarism in Coursework Policy, and except where specifically acknowledged, the work contained in this assignment or project is my own work, and has not been copied from other sources or been previously submitted for award or assessment.
-
-I understand that failure to comply with the the Academic Dishonesty and Plagiarism in Coursework Policy, can lead to severe penalties as outlined under Chapter 8 of the University of Sydney By-Law 1999 (as amended). These penalties may be imposed in cases where any significant portion of my submitted work has been copied without proper acknowledgement from other sources, including published works, the internet, existing programs, the work of other students, or work previously submitted for other awards or assessments.
-
-I realise that I may be asked to identify those portions of the work contributed by me and required to demonstrate my knowledge of the relevant material by answering oral questions or by undertaking supplementary work, either written or in the laboratory, in order to arrive at the final assessment mark.
-
-I acknowledge that the School of Computer Science, in assessing this assignment, may reproduce it entirely, may provide a copy to another member of faculty, and or communicate a copy of this assignment to a plagiarism checking service or in house computer program, and that a copy of the assignment may be maintained by the service or the School of Computer Science for the purpose of future plagiarism checking.
-
-Warning: Any attempts to deceive or disrupt the marking system will result in an immediate zero for the entire assignment. Negative marks can be assigned if you do not properly follow the assignment description, or your code is unnecessarily or deliberately obfuscated. 

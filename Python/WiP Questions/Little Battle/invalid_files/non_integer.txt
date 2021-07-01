@@ -1,0 +1,5 @@
+Frame: 5x5
+Water: a b 4 2 1 3
+Wood: 0 1 2 4
+Food: d 4 3 1
+Gold: 4 1 2 2
